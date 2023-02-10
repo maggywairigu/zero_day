@@ -1,1 +1,0 @@
-The uname command is used to display information about the operating system and the system's hardware. The uname command outputs the name, version, and other information about the current operating system. The output of the uname command can be used to determine the type of operating system and hardware that the system is running on.
